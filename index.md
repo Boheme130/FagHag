@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Honeytrap
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/FagHag/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://ksr-ugc.imgix.net/assets/011/491/176/b382e955b89d636ce1afd087a659fc30_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463683501&auto=format&frame=1&q=92&s=0465ef215981237bea1c8d0c909b6dfc)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Fag Hag <br>
+作者：Robert Rodi <br>
+评分：4.8/5 <br>
 
-### Markdown
+关键词：喜剧；致命女人；爱上的Gay友被男人抢走；抢男人；家庭破坏者；心机；犯罪；黑白通吃
+<br>
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+剧情：
+年近30的Natalie表面上花枝招展，穿行于芝加哥夜晚的花花世界中，心里却暗恋着一个Gay————Peter，一个艺术家。Peter不仅是Natalie眼中的阿波罗，白月光，其他的人物第一次见Peter时几乎都在赞叹他的外表。Natalie费尽心思成为了Peter的BFF，并趁机暗中拆散Peter的每一段感情。Natalie坚信只要Peter约遍了芝加哥的每一个男人并对他们失望，等他蓦然回首时，她就可以近水楼台先得月。
 
-```markdown
-Syntax highlighted code block
+Peter的约会对象一般都是些绣花脑袋的美少年，一开头Peter和Morris坠入爱河。不过Natalie口蜜腹剑，表面上和Morris发展出友谊，实际上偷偷给Peter和Morris洗脑埋下感情失败的恶种。最终Morris离Peter而去，Natalie又能一个人开心独享Peter. 靠着类似的诡计，Natalie在短短两年间至少击溃了八个情敌，只不过可怜的Peter一直被蒙在鼓里。
 
-# Header 1
-## Header 2
-### Header 3
+然而当Peter开始约会Lloyd，Natalie对付无脑美男的伎俩开始失效。Lloyd是一个MAGA推抢派无政府主义右翼，开了一家枪店。一开始Natalie对Lloyd不屑一顾，甚至觉得对方不需要自己出马，左派的Peter就会和他分手。然而事情开始朝着失控的方向发展，Lloyd似乎是Peter注定的真命天子，他们两人互依互补，各自在对方身上找到了生命的新意义。
 
-- Bulleted
-- List
+Natalie是一个致命女人，一个操纵大师。当Natalie发现她常规的方法拆不散两人时，她的手段开始变得越来越极端。她买通Gay友的芝加哥黑警男友拿到窃听装置，辞掉工作每天监听Peter卧室。她找到前黑帮成员的黑人养妹姐夫，用计让他成为了Llyod的武器店店员作为线人。她要挟黑警以物易物，策划好了天衣无缝的入室持枪抢劫Peter，并和警察里应外合陷害Llyod。然而当一切都无法让这对鸳鸯分开时，Natalie决定使用最极端的方法：她要让Peter永远只属于她一个人，即便代价是失去自由……
 
-1. Numbered
-2. List
+<br>
 
-**Bold** and _Italic_ and `Code` text
+人物关系
+这本书给我的感觉就像是《寻妈记》和《致命女人》的混合产物，不过里面人物内核的连贯性处理得非常好，不像寻妈记后期在放飞剧情后人设开始崩塌。本书出版于1992年，不过作者在2014年补了一篇短篇续集，讲述了Natalie, Peter, Llyod和书里的其他人物在2014年的故事。这个短篇验证了我对1992原版主题的猜想，并确信作者Rodi玩了一个隐蔽的障眼法。
 
-[Link](url) and ![Image](src)
-```
+书里最有迷惑性的是Lloyd，他作为右派和红脖最大的区别就是他的理论储备非常丰富，书里每次他一开口都显得非常理性，就算是左派的Peter一开始也不知道怎么反驳Lloyd的观点。书中最容易被迷惑的是Lloyd在Peter被持枪抢劫后开始动摇自己的推枪立场，作为MAGA的他说出了”我曾经觉得自由持枪能让美国再次伟大，但是你知道吗，我现在不在乎美国了！没有什么能比得上Peter, 他是我的国家，他是我的主义，他是我的道德，我的政治，我的经济。他一直说爱胜过一切，我现在终于明白他说的是对的。” 是不是看起来像是改过自新了？书里芝加哥日报的采访记者就是这么觉得的，但是实际上Lloyd只是把他信仰的重点从持枪转移到了末日生存培训上，实际上仍然在践行他的绝对个人自由主义。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+然而如果说Natalie活在Peter可能爱上自己的bubble中，那么Lloyd的bubble可能比Natalie的更大，因为Natalie的泡泡毕竟一戳就破，但Lloyd的泡泡有了理论支撑更难戳破。比起接受世界复杂的多面性，认清没有任何理论能全盘指导现实，Lloyd对右派理论的接受可以说是双向选择。这些理论简化了世界，并提供了清晰的选择途径，让Lloyd相信生活在这个世界就只需去践行这些理论。
 
-### Jekyll Themes
+因此，有了思想上的稳固，Lloyd从头到尾都散发出自信、沉着的气质，而这就是他吸引住Peter的根本原因。Peter年近三十，但却倍感迷茫不知道自己的人生将走向何处。他能被Natalie操纵的原因之一就是他自己也就像一张白纸，等着别人在上面作画赋予他意义。实际上，在22年后Peter的回忆中，这种迷茫的感觉才是生命的常态，但年轻的他却也以为生命会有一些确定的答案和途径，因此他先是把自己交给了Natalie，然后又把自己交给了Llyod. 最终，Peter在婚姻中逐渐意识到了Lloyd世界观的根本性缺陷，并在知天命之年重新拥抱不确定性。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/FagHag/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+而Natalie在1992年绑架Peter事情败露后迅速和一直暗恋她的一个男人结婚回归城郊生活。1992年作品的结尾中，Natalie只是顿悟她的情感需求需要有真正的异性恋男人去填补，而让Natalie形象实现升华的是2014年的续集。此时她已经是三孩母亲，并和Peter保持了20多年的友谊。当她的家庭中出现孩子的性取向危机时，她不得不重新解构自己对于gay的嗜好，并最终真正放下了对于Peter的心结。
 
-### Support or Contact
+GR上一个读者的评论很好地概括了书中三人的内核关系：
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+”随着故事的发展，Natalie变得越加失控，然而她对于Peter的洞察却一直有可取之处。Peter是真的不知道他想要什么，这也是他愿意在之前任凭Natalie操控自己人生的原因。他倾向于被离他最近的力量源泉操控，而当Lloyd进入他的生活成功取代Natalie成为Peter的指南针时，Peter开始把Lloyd的方方面面嫁接到自己身上：他的生活方式，他的绝对个人自由主义，甚至他的外貌打扮。Peter没有选择一条独立的生活道路，而是直接复制了现成的Lloyd模式。
+
+这让我们不得不开始审视Lloyd。Peter在书中第一次见面就对Lloyd的观点印象深刻(Peter大部分约会对象都是草包脑袋)，但是Peter并未看穿Lloyd思想的浅薄。在Lloyd的眼中，事物清晰而单一，有着明确的选择和答案，这种面对生活的方式粗暴而过于简单，但却远比面对生命中的复杂不确定性来得更加舒适。Natalie尽管对于赢得Peter的芳心有着不切实际的幻想，但她却成功捕捉到了Lloyd这种单一心态，并巧妙把这点融入到了她的犯罪计划。Natalie是一个对于人物的观察大师，尽管她把这种天赋主要用在了操纵他人上，并且察觉出了Lloyd世界观的廉价本质。“
